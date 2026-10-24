@@ -1,6 +1,6 @@
 QUIZ APPLICATION - MINI PYTHON PROJECT
 
-Student: Nairuthya B.R.
+Student: Sannitha 
 Course: BCA
 Task: Task 4 - Mini Python Project
 
